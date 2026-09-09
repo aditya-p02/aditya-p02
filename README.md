@@ -1,13 +1,19 @@
-# hey, I'm Aditya 👋
+# Hey there! 👋
 
-CS student curious about cybersecurity, ethical hacking and how things work under the hood.
+I'm Aditya, a CS student from India.
 
-- 🔐 exploring cybersecurity & ethical hacking
-- 🐧 learning Linux, networking & systems
-- 💻 building projects and experimenting with new ideas
-- 🧠 learning by doing and figuring things out along the way
-- 🚀 always working on something interesting
-- 🤝 open to cool projects & collaborations
-- 💬 tech, security or anything interesting
+I'm really into hacking and cybersecurity, and I spend a lot of my time learning how systems, networks, and applications actually work.
 
-> curious mind, questionable amount of tabs open.
+I like learning by getting my hands dirty — trying things out, building projects, exploring Linux, and diving deeper into security whenever something catches my interest.
+
+My main interests right now are ethical hacking, cybersecurity, Linux, networking, and pretty much anything that helps me understand computers better.
+
+I've got a bunch of projects pinned here, ranging from things I build while learning to ideas I just wanted to try out.
+
+### Fun Facts:
+
+- 🐧 Linux enthusiast
+- 🔐 Really into hacking & cybersecurity
+- 💻 Always building or experimenting with something
+- 🧠 Usually learning something new
+- 🌐 Can spend way too long going down a random tech rabbit hole
