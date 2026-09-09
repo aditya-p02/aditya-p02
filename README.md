@@ -1,16 +1,13 @@
-## Hi there 👋
+# hey, I'm Aditya 👋
 
-<!--
-**aditya-p02/aditya-p02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student curious about cybersecurity, ethical hacking and how things work under the hood.
 
-Here are some ideas to get you started:
+- 🔐 exploring cybersecurity & ethical hacking
+- 🐧 learning Linux, networking & systems
+- 💻 building projects and experimenting with new ideas
+- 🧠 learning by doing and figuring things out along the way
+- 🚀 always working on something interesting
+- 🤝 open to cool projects & collaborations
+- 💬 tech, security or anything interesting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> curious mind, questionable amount of tabs open.
