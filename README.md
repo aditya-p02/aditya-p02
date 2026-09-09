@@ -12,8 +12,10 @@ I've got a bunch of projects pinned here, ranging from things I build while lear
 
 ### Fun Facts:
 
-- 🐧 Linux enthusiast
-- 🔐 Really into hacking & cybersecurity
-- 💻 Always building or experimenting with something
-- 🧠 Usually learning something new
-- 🌐 Can spend way too long going down a random tech rabbit hole
+- 🐱 I have a very cute cat
+- 🍥 One Piece & Naruto are my favv anime
+- 🦸‍♂️ Marvel characters are actually what got me interested in computers and tech
+- 🏸 I play badminton in my free time
+- 🎬 I love watching web series and anime
+- ☕ I don't like tea
+- 🧠 I can't really explain how I got this deep into computers... it just happened
